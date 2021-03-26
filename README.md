@@ -1,9 +1,6 @@
 # Tender analysis
 > Analysis of datasets from <https://opentender.eu/data/files/data-no-csv.zip>
 
-
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Reproduce results
